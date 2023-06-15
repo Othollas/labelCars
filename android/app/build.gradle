@@ -113,9 +113,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.myproject"
+    namespace "com.coffee3000"
     defaultConfig {
-        applicationId "com.myproject"
+        applicationId "com.coffee3000"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

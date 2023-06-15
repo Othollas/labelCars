@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "la-belle-care",
+    "slug": "la-belle-care",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./assets/logo-transparent.png",
+    "splash": {
+        "image": "./assets/splash.png",
+        "backgroundColor": "#222"
+      }
   },
-  "name": "my-project"
+  "name": "la-belle-care"
 }
